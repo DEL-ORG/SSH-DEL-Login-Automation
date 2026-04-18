@@ -1,15 +1,15 @@
 
-BASH-SCRIPT-USAGE 
------------------
-# Make it executable
-chmod +x ssh_login.sh                          
+# BASH-SCRIPT-USAGE 
+--------------------
+Make it executable
+# chmod +x ssh_login.sh                          
 
  (run once) 
- 
-# Run the script
-./ssh_login.sh          
 
-Enter your USERNAME and PASSWORD when prompted.
+Run the script
+# ./ssh_login.sh          
+
+Enter your "$USERNAME" and "$PASSWORD" when prompted.
 
 # Requirements
 
