@@ -1,27 +1,20 @@
 
 BASH-SCRIPT-USAGE 
 -----------------
-chmod +x ssh_login.sh   # Make it executable
+# Make it executable
+chmod +x ssh_login.sh                          
 
  (run once) 
+ 
+# Run the script
+./ssh_login.sh          
 
-./ssh_login.sh          # Run the script
+Enter your USERNAME and PASSWORD when prompted.
 
-
-Enter your username and password when prompted.
-
-
-Requirements
+# Requirements
 
 SSH client installed 
 
 Network access to bastion.devopseasylearning.net 
 
 A valid account on the server
-
-
-
-
-
-
-
